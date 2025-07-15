@@ -8,8 +8,8 @@ hide:
 
 ### ColdFront simplifies the managment of cyberinfrastructure, empowering administrators to better serve the scientific community and improve time-to-science.
 
-[:material-clock-fast:{ .lg  .middle } Get Started](#){ .md-button .md-button--primary }
-[:fontawesome-brands-github:{ .lg .middle } View on GitHub](#){ .md-button .md-button--secondary }
+[:material-clock-fast:{ .lg  .middle } Get Started](https://docs.coldfront.dev/en/stable/install/){ .md-button .md-button--primary }
+[:fontawesome-brands-github:{ .lg .middle } View on GitHub](https://github.com/ubccr/coldfront){ .md-button .md-button--secondary }
 
 
 <div class="grid cards" markdown>

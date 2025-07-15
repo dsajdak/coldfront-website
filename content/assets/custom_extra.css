@@ -17,10 +17,8 @@
   padding-bottom: 0;
 }
 
-.md-header__button.md-logo img,
-.md-header__button.md-logo svg {
-  height: 50%;
-  width: 50%;
+.md-header__button.md-logo img {
+  height: 4.0rem;
 }
 
 .md-header, .md-tabs {
@@ -29,4 +27,8 @@
 
 .md-banner {
     background-color: #fb8400;
+}
+
+.md-nav__source {
+    background-color: #666666;
 }
