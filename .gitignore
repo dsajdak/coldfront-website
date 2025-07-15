@@ -6,3 +6,4 @@ venv/
 *.code-workspace
 .vscode
 .env
+site/
