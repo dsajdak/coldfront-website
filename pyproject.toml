@@ -17,6 +17,7 @@ dependencies = [
     "mkdocs-bootswatch",
     "pymdown-extensions",
     "fontawesome-markdown>=0.2.6",
+    "mkdocs-video>=1.5.0",
 ]
 
 [project.urls]
