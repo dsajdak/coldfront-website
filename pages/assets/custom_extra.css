@@ -1,0 +1,32 @@
+:root  > * {
+  --md-primary-fg-color:        #1f1d1d;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #fb8400;
+}
+
+.md-header__topic {
+  display: none;
+}
+
+.md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 50%;
+  width: 50%;
+}
+
+.md-header, .md-tabs {
+    background-color: #1f1d1d;
+}
+
+.md-banner {
+    background-color: #fb8400;
+}

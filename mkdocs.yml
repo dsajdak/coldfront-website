@@ -1,0 +1,63 @@
+site_name: ColdFront
+docs_dir: 'pages'
+site_description: 'HPC Resource Allocation Management System'
+site_url: 'https://coldfront.readthedocs.io'
+copyright: 'Copyright &copy; University at Buffalo Center for Computational Research'
+repo_name: 'ubccr/coldfront'
+repo_url: 'https://github.com/ubccr/coldfront'
+edit_uri: ''
+
+theme:
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  name: material
+  custom_dir: overrides
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.indexes
+  palette: 
+    # Palette toggle for light mode
+    - scheme: custom
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - assets/custom_extra.css
+
+plugins: 
+  - search
+  - awesome-pages
+  - blog:
+      blog_dir: news
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
