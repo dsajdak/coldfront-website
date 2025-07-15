@@ -1,5 +1,5 @@
 site_name: ColdFront
-docs_dir: 'pages'
+docs_dir: 'content'
 site_description: 'HPC Resource Allocation Management System'
 site_url: 'https://coldfront.readthedocs.io'
 copyright: 'Copyright &copy; University at Buffalo Center for Computational Research'
