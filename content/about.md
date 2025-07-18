@@ -18,4 +18,4 @@ UB CCR's director envisioned a portal that would require faculty to update their
 
 From the start, ColdFront was developed with flexibility in mind.  We knew that other HPC centers faced the same resource management issues as we did, but also knew they likely didn't have identical policies and workflows as us.  ColdFront's flexibility and extensibility have made it easy to customize and implement for HPC centers of various sizes, from around the world.  Some utilize ColdFront to manage a single cluster, some have multiple shared resources, and others are using ColdFront to manage resources across collaborating organizations.
 
-In 2025, with community contributions to the project flowing in and interest growing quickly, UB CCR decided to pass the torch and make ColdFront a true community project.  We welcome you to [join us](../content/community.md)!
+In 2025, with community contributions to the project flowing in and interest growing quickly, UB CCR decided to pass the torch and make ColdFront a true community project.  We welcome you to [join us](community.md)!
