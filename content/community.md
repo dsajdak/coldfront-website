@@ -36,8 +36,8 @@ We have two mailing lists available for the ColdFront community. To join either,
 
 To join the announcement mailing list and receive news and updates use:  
 
-subscribe CCR-COLDFRONT-ANNOUNCEMENTS-LIST@listserv.buffalo.edu first_name last_name  
+subscribe CCR-COLDFRONT-ANNOUNCEMENTS-LIST first_name last_name  
 
 To join the community forum mailing list that allows communication between community members use:  
 
-subscribe CCR-COLDFRONT-COMMUNITY-LIST@listserv.buffalo.edu first_name last_name  
+subscribe CCR-COLDFRONT-COMMUNITY-LIST first_name last_name  
