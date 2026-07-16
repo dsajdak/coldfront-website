@@ -9,7 +9,7 @@ hide:
 ### ColdFront simplifies the managment of cyberinfrastructure, empowering administrators to better serve the scientific community and improve time-to-science.
 
 [:material-clock-fast:{ .lg  .middle } Get Started](https://docs.coldfront.dev/en/stable/install/){ .md-button .md-button--primary }
-
+[:material-youtube-tv:{ .lg  .middle } Demo](https://www.youtube.com/watch?v=NrMGumFXrPc&t=1s){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
