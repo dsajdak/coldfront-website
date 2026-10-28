@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# :fontawesome-solid-people-group:{ .lg .middle } Monthy Community Meetups
+# :fontawesome-solid-people-group:{ .lg .middle } Monthly Community Meetups
 Join us for monthly virtual meetings where members of the community come together and discuss all things related to ColdFront. This is a place where all current and potential users of ColdFront can come for informal advice, share how they're using or have customized the application, develop strategic collaborations to build out new features, and provide feedback and input on the development roadmap.  
 
 - When: The 2nd Tuesday of each month at 11:30am ET / 10:30am CT / 8:30am PT / 3:30pm GMT

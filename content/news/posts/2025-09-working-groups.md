@@ -31,4 +31,4 @@ _Storage:_ co-leads David S (Cardiff) and Chris B (Tufts) - this may lead to a g
 _Slurm "legacy" plug-in:_ Cecilia L (RIT) (interested in development but maybe not leading the WG)  
 _LDAP:_ Several interested potential developers, no WG leads at this time.  [Contact the ColdFront admins](https://github.com/ubccr/coldfront/tree/main?tab=readme-ov-file#contact-information) if you're interested in getting this group started.  
 
-To indiciate your interest in participating in and/or leading a working group, please fill out [this form](https://forms.gle/CSzEjYD3H7wBzgFZ9) and we'll put you in contact with the working group.  
+To indicate your interest in participating in and/or leading a working group, please fill out [this form](https://forms.gle/CSzEjYD3H7wBzgFZ9) and we'll put you in contact with the working group.  
